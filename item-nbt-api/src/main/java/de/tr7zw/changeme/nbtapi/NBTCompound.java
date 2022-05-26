@@ -1401,6 +1401,13 @@ public class NBTCompound implements ReadWriteNBT {
     }
 
     /**
+     * Check if the NBTCompound is empty
+     */
+    public boolean isEmpty(){
+        return getKeys().isEmpty();
+    }
+
+    /**
      * Remove all keys from this compound
      */
     @Override
