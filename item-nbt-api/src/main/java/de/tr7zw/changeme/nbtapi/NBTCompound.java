@@ -800,6 +800,13 @@ public class NBTCompound {
 	}
 
 	/**
+	 * Check if the NBTCompound is empty
+	 */
+	public boolean isEmpty(){
+		return getCompound() == null || getKeys().isEmpty();
+	}
+
+	/**
 	 * @deprecated Just use toString()
 	 * @return A {@link String} representation of the NBT in Mojang JSON. This is different from normal JSON!
 	 */
