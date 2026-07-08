@@ -2,7 +2,6 @@
 
 [![Modrinth](https://img.shields.io/modrinth/dt/nbtapi?logo=modrinth&label=Modrinth%20downloads)](https://modrinth.com/plugin/nbtapi)
 [![Discord](https://img.shields.io/discord/342814924310970398?color=%237289DA&label=Discord&logo=discord&logoColor=white)](https://discordapp.com/invite/yk4caxM)
-[![Ko-fi](https://img.shields.io/badge/Support%20development-Ko--fi-gray?logo=ko-fi&color=FF5E5B)](https://ko-fi.com/tr7zw)
 
 Add custom NBT tags to Items/Tiles/Entities without NMS! Modify NBT and store it in Files, other NBT, or as String in yaml/json/SQL/Redis.
 [Server Owner/Developer Wiki](https://github.com/tr7zw/Item-NBT-API/wiki)
